@@ -28,3 +28,11 @@ using Spring boot framework.
     mvn spring-boot:run
 
 The service is assumed to be run locally http://localhost:8080
+
+
+**Manual testing result**
+![create user.png](create%20user.png)
+
+![create listing.png](create%20listing.png)
+
+![get listings.png](get%20listings.png)
